@@ -1,0 +1,12 @@
+.parent{
+    display: flex;
+    
+}
+
+.firstName{
+    margin: 5px;
+}
+
+.formSubmit{
+  align-content: center;
+}
