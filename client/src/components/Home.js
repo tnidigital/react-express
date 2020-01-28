@@ -9,7 +9,7 @@ function Home() {
     return (
        <Router>
          <div>
-           <h1>welcome to react</h1>
+           <h6>reactjs project</h6>
            <nav>
              <ul>
                <li>
