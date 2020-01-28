@@ -10,6 +10,7 @@ function Home() {
        <Router>
          <div>
            <h6>welcome to reactjs project </h6>
+           <h1>welcome to github</h1>
            <nav>
              <ul>
                <li>
